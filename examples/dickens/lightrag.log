@@ -1,0 +1,30 @@
+2024-11-14 12:45:25,566 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-14 12:45:25,567 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-14 12:45:25,567 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-14 12:45:25,568 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-14 12:55:02,954 - lightrag - INFO - Logger initialized for working directory: ./test
+2024-11-14 12:55:02,954 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-14 12:55:02,954 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-14 12:55:02,954 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-14 12:55:28,601 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-14 12:55:31,572 - lightrag - INFO - [New Chunks] inserting 4190 chunks
+2024-11-14 12:55:31,572 - lightrag - INFO - Inserting 4190 vectors to chunks
+2024-11-14 13:08:08,274 - lightrag - INFO - [Entity Extraction]...
+2024-11-14 13:11:09,711 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-11-14 16:23:07,922 - lightrag - INFO - Logger initialized for working directory: ./test
+2024-11-14 16:23:07,922 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-14 16:23:07,928 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-14 16:23:07,928 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-14 17:30:03,171 - lightrag - INFO - Logger initialized for working directory: ./hadith_quran
+2024-11-14 17:30:03,173 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-14 17:30:03,173 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-14 17:30:03,180 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-14 17:30:10,108 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-14 17:30:16,476 - lightrag - INFO - [New Chunks] inserting 4190 chunks
+2024-11-14 17:30:16,492 - lightrag - INFO - Inserting 4190 vectors to chunks
+2024-11-14 20:22:40,308 - lightrag - INFO - [Entity Extraction]...
+2024-11-14 20:23:22,557 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-11-14 23:08:21,932 - lightrag - INFO - Logger initialized for working directory: ./openai_hadith_quran
+2024-11-14 23:08:21,932 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-14 23:08:21,932 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-14 23:08:21,932 - lightrag - INFO - Load KV llm_response_cache with 0 data
