@@ -34,7 +34,7 @@ We will be using `https://github.com/HKUDS/LightRAG` repository, We will clone a
     - For LLM model, recommended is `GPT-4o`.
     
 
-5. **Configure AZURE_OPENAI_API_KEY:**
+4. **Configure AZURE_OPENAI_API_KEY:**
 
     After creating the deployments, you need to add these to `.env` file or add secret key if using colab.
    - AZURE_OPENAI_API_VERSION = your_api_version
@@ -44,6 +44,6 @@ We will be using `https://github.com/HKUDS/LightRAG` repository, We will clone a
    - AZURE_EMBEDDING_DEPLOYMENT = your_deployment_name
    - AZURE_EMBEDDING_API_VERSION = your_api_version
 
-3. **Implement the LightRAG and Set AzureOpen AI Code**
+5. **Implement the LightRAG and Set AzureOpen AI Code**
    - Use the code from if using colab `lightRAG.ipynb`
-   - Use the code from `
+   - Use the code from `lightrag_azure_openai_demo.py`
