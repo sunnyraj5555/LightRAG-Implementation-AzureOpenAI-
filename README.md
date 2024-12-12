@@ -11,6 +11,11 @@ We will be using `https://github.com/HKUDS/LightRAG` repository, We will clone a
     ```sh
     # Clone the Repository
     git clone https://github.com/HKUDS/LightRAG.git
+
+    #Create Virtual Environment
+    conda create -n LightRAG python=3.10
+
+    #
     
     # Change Directory to LightRAG
     cd LightRAG
