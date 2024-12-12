@@ -14,8 +14,7 @@ We will be using `https://github.com/HKUDS/LightRAG` repository, We will clone a
 
     #Create Virtual Environment
     conda create -n LightRAG python=3.10
-
-    #
+    conda activate LightRAG
     
     # Change Directory to LightRAG
     cd LightRAG
@@ -28,7 +27,7 @@ We will be using `https://github.com/HKUDS/LightRAG` repository, We will clone a
     # Install from PyPI
     pip install lightrag-hku
     ```
-2. **Adding the text file**
+2. **Adding the text file in same folder**
     - Now need to add the `.txt` file of your own OR Download the demo text "A Christmas Carol by Charles Dickens":
     ```sh
     curl https://raw.githubusercontent.com/gusye1234/nano-graphrag/main/tests/mock_data.txt > ./book.txt
